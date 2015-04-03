@@ -105,3 +105,4 @@ cabinet_ministers.lst:
 peticion.lst:inicioPeticion
 saludo.lst:saludo:::Saludo
 despedida.lst:despedida:::Despedida
+insultos.lst:insultos:::Insultos
