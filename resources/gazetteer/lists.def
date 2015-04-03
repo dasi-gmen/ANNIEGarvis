@@ -106,3 +106,5 @@ peticion.lst:inicioPeticion
 saludo.lst:saludo:::Saludo
 despedida.lst:despedida:::Despedida
 insultos.lst:insultos:::Insultos
+presentar.lst:presentar:::Presentar
+nombres.lst:nombres:::Nombres
