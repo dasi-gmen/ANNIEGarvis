@@ -104,9 +104,6 @@ city_es.lst:location:city
 cabinet_ministers.lst:
 peticion.lst:inicioPeticion
 saludo.lst:saludo:::Saludo
-despedida.lst:despedida:::Despedida
-insultos.lst:insultos:::Insultos
-usuario.lst:usuario:::Usuario
-presentar.lst:presentar:::Presentar
-nombres.lst:nombres:::Nombres
-
+despedida.lst::adios
+insultos.lst:
+usuario.lst::::usuario
