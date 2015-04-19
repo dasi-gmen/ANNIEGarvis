@@ -39,11 +39,14 @@ apellidos.lst:Persona:Nombre::apellido
 capitalesEspania.lst:Lugar:Ciudad
 nevera.lst:Persona:Nombre::nevera
 periodicosEspanioles.lst:Organizacion:Medios
-negacion.lst:negacion:::negacion
+negacion.lst:negativo:no::negacion
 peticion_de_informacion.lst:peticion_de_informacion
-afirmaciones.lst:si:si
+afirmaciones.lst:afirmacion:si
 garvis.lst:GARVIS:casa::garvis
 microondas.lst:microondas:Horno::microondas
 television.lst:tele:Television::television
 termostato.lst:termostato:Termostato::termostato
 detector.lst:Detector:detector::detector
+biblioteca.lst:biblioteca:libro::biblioteca
+dispensador.lst:Dispensador:champu::dispensador
+aspiradora.lst:Aspiradora:aspiradora::aspiradora
