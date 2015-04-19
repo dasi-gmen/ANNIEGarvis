@@ -44,3 +44,6 @@ peticion_de_informacion.lst:peticion_de_informacion
 afirmaciones.lst:si:si
 garvis.lst:GARVIS:casa::garvis
 microondas.lst:microondas:Horno::microondas
+television.lst:tele:Television::television
+termostato.lst:termostato:Termostato::termostato
+detector.lst:Detector:detector::detector
