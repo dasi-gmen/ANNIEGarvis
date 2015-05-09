@@ -50,3 +50,5 @@ detector.lst:Detector:detector::detector
 biblioteca.lst:biblioteca:libro::biblioteca
 dispensador.lst:Dispensador:champu::dispensador
 aspiradora.lst:Aspiradora:aspiradora::aspiradora
+acc_encender.lst:prender:encender::acc_encender
+acc_apagar.lst:quitar:apagar::acc_apagar
