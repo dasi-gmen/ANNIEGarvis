@@ -54,4 +54,3 @@ acc_encender.lst:prender:encender::acc_encender
 acc_apagar.lst:quitar:apagar::acc_apagar
 ListarLibro.lst::::ListarLibro
 grabartv.lst:grabacion:grabar::grabartv
-
