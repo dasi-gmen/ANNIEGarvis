@@ -50,3 +50,8 @@ detector.lst:Detector:detector::detector
 biblioteca.lst:biblioteca:libro::biblioteca
 dispensador.lst:Dispensador:champu::dispensador
 aspiradora.lst:Aspiradora:aspiradora::aspiradora
+apagar_microondas.lst:apagar:apaga::apagarmicro
+cerrar_microondas.lst:cerrar:cierra::cerrarmicro
+abrir_microondas.lst:abrir:abre::abrirmicro
+encender_microonda.lst:encender:enciende::encendermicro
+funcion_microondas.lst:calientar:preparar::funcionmicro
