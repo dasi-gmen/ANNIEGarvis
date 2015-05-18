@@ -47,7 +47,7 @@ microondas.lst:microondas:Horno::microondas
 television.lst:tele:Television::television
 termostato.lst:termostato:Termostato::termostato
 detector.lst:Detector:detector::detector
-biblioteca.lst:biblioteca:libro::biblioteca
+biblioteca.lst:biblioteca:ListaLibro::biblioteca
 dispensador.lst:Dispensador:champu::dispensador
 aspiradora.lst:Aspiradora:aspiradora::aspiradora
 apagar_microondas.lst:apagar:apaga::apagarmicro
@@ -56,3 +56,8 @@ abrir_microondas.lst:abrir:abre::abrirmicro
 encender_microonda.lst:encender:enciende::encendermicro
 funcion_microondas.lst:calientar:preparar::funcionmicro
 tiempo5.lst:minutos:tiempo::tiempocinco
+acc_encender.lst:prender:encender::acc_encender
+acc_apagar.lst:quitar:apagar::acc_apagar
+ListarLibro.lst::::ListarLibro
+grabartv.lst:grabacion:grabar::grabartv
+addlibro.lst:
