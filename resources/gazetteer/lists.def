@@ -62,3 +62,4 @@ grabartv.lst:grabacion:grabar::grabartv
 sintonizatv.lst:sintonizar:pon::sintonizatv
 apagarTV.lst:apagar:apaga::apagartv
 encenderTV.lst:encender:enciende::encendertv
+ListarLibro.lst:
