@@ -53,3 +53,6 @@ aspiradora.lst:Aspiradora:aspiradora::aspiradora
 acc_encender.lst:prender:encender::acc_encender
 acc_apagar.lst:quitar:apagar::acc_apagar
 grabartv.lst:grabacion:grabar::grabartv
+sintonizatv.lst:sintonizar:pon::sintonizatv
+apagarTV.lst:apagar:apaga::apagartv
+encenderTV.lst:encender:enciende::encendertv
