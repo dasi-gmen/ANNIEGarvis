@@ -55,3 +55,4 @@ cerrar_microondas.lst:cerrar:cierra::cerrarmicro
 abrir_microondas.lst:abrir:abre::abrirmicro
 encender_microonda.lst:encender:enciende::encendermicro
 funcion_microondas.lst:calientar:preparar::funcionmicro
+tiempo5.lst:minutos:tiempo::tiempocinco
