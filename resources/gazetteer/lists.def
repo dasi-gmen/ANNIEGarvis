@@ -63,3 +63,4 @@ sintonizatv.lst:sintonizar:pon::sintonizatv
 apagarTV.lst:apagar:apaga::apagartv
 encenderTV.lst:encender:enciende::encendertv
 obtenerlibros.lst:biblioteca:::obtenerlibro
+libros_policiacos.lst::::librospoliciacos
