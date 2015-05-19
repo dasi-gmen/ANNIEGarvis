@@ -67,3 +67,4 @@ libros_policiacos.lst::::librospoliciacos
 nuevoslibros.lst::::nuevoslibros
 casoquebert.lst::::casoquebert
 listalibros.lst::::listalibros
+addlibro.lst:bilbioteca:libros::nuevolibro
