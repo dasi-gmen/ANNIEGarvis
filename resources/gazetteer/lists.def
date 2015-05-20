@@ -66,3 +66,4 @@ obtenerlibros.lst:biblioteca:::obtenerlibro
 libros_policiacos.lst::::librospoliciacos
 nuevoslibros.lst::::nuevoslibros
 casoquebert.lst::::casoquebert
+canaltv.lst:canal:canal::canaltv
