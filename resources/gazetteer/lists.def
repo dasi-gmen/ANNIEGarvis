@@ -47,7 +47,6 @@ microondas.lst:microondas:Horno::microondas
 television.lst:tele:Television::television
 termostato.lst:termostato:Termostato::termostato
 detector.lst:Detector:detector::detector
-biblioteca.lst:biblioteca:libro::biblioteca
 dispensador.lst:Dispensador:champu::dispensador
 aspiradora.lst:Aspiradora:aspiradora::aspiradora
 apagar_microondas.lst:apagar:apaga::apagarmicro
@@ -69,3 +68,4 @@ casoquebert.lst::::casoquebert
 listalibros.lst:biblioteca:libros::listalibros
 addlibro.lst:bilbioteca:libros::nuevolibro
 canaltv.lst:canal:canal::canaltv
+lectura.lst:biblioteca:libros::lectura
