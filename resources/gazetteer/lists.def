@@ -69,3 +69,4 @@ listalibros.lst:biblioteca:libros::listalibros
 addlibro.lst:bilbioteca:libros::nuevolibro
 canaltv.lst:canal:canal::canaltv
 lectura.lst:biblioteca:libros::lectura
+mostrar.lst:enseña:muestra::mostrar
