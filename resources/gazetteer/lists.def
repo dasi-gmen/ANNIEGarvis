@@ -69,4 +69,6 @@ listalibros.lst:biblioteca:libros::listalibros
 addlibro.lst:bilbioteca:libros::nuevolibro
 canaltv.lst:canal:canal::canaltv
 lectura.lst:biblioteca:libros::lectura
-mostrar.lst:enseña:muestra::mostrar
+mostrar.lst:ense?a:muestra::mostrar
+alimentos.lst:alimentos:alimentos::alimentos
+estado_nevera.lst:estadoNevera:estadonevera::estadonevera
