@@ -73,3 +73,4 @@ mostrar.lst:ense?a:muestra::mostrar
 alimentos.lst:alimentos:alimentos::alimentos
 estado_nevera.lst:estadoNevera:estadonevera::estadonevera
 meterMicro.lst:meter:meter::metermicro
+sacarMicro.lst:sacar:vaciar::sacarmicro
