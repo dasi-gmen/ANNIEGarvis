@@ -74,3 +74,5 @@ alimentos.lst:alimentos:alimentos::alimentos
 estado_nevera.lst:estadoNevera:estadonevera::estadonevera
 meterMicro.lst:meter:meter::metermicro
 sacarMicro.lst:sacar:vaciar::sacarmicro
+meterNevera.lst:meter:meter::meternevera
+sacarNevera.lst:sacar:sacar::sacarnevera
